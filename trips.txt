@@ -1,0 +1,149 @@
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible
+5646,3,5646,,"Menetrendi(Települések közötti járat)",0,290 3,7,0
+5647,4,5646,,"Menetrendi(Települések közötti járat)",0,290 4,10,0
+5648,3,5646,,"Menetrendi(Települések közötti járat)",0,290 3,7,0
+5649,211,5646,,"Menetrendi(Települések közötti járat)",0,290 211,,0
+5650,3,5646,,"Menetrendi(Települések közötti járat)",0,290 3,7,0
+5651,211,5646,,"Menetrendi(Települések közötti járat)",0,290 211,,0
+5652,3,5646,,"Menetrendi(Települések közötti járat)",0,290 3,7,0
+5653,4,5646,,"Menetrendi(Települések közötti járat)",0,290 4,10,0
+5674,99,5674,,"Menetrendi(Települések közötti járat)",0,242 99,232,0
+5675,95,5674,,"Menetrendi(Települések közötti járat)",0,242 95,59,0
+5676,96,5674,,"Menetrendi(Települések közötti járat)",0,242 96,61,0
+5677,97,5674,,"Menetrendi(Települések közötti járat)",0,242 97,236,0
+5678,99,5678,,"Menetrendi(Települések közötti járat)",0,289 99,232,0
+5679,95,5678,,"Menetrendi(Települések közötti járat)",0,289 95,59,0
+5680,96,5678,,"Menetrendi(Települések közötti járat)",0,289 96,61,0
+5681,97,5678,,"Menetrendi(Települések közötti járat)",0,289 97,236,0
+5682,99,5682,,"Menetrendi(Települések közötti járat)",0,242 99,232,0
+5683,95,5682,,"Menetrendi(Települések közötti járat)",0,242 95,59,0
+5684,96,5682,,"Menetrendi(Települések közötti járat)",0,242 96,61,0
+5685,97,5682,,"Menetrendi(Települések közötti járat)",0,242 97,236,0
+5686,99,5686,,"Menetrendi(Települések közötti járat)",0,289 99,232,0
+5687,95,5686,,"Menetrendi(Települések közötti járat)",0,289 95,59,0
+5688,96,5686,,"Menetrendi(Települések közötti járat)",0,289 96,61,0
+5689,97,5686,,"Menetrendi(Települések közötti járat)",0,289 97,236,0
+5690,99,5690,,"Menetrendi(Települések közötti járat)",0,242 99,232,0
+5691,95,5690,,"Menetrendi(Települések közötti járat)",0,242 95,59,0
+5692,96,5690,,"Menetrendi(Települések közötti járat)",0,242 96,61,0
+5693,97,5690,,"Menetrendi(Települések közötti járat)",0,242 97,236,0
+5714,95,5674,,"Menetrendi(Települések közötti járat)",0,289 95,59,0
+5715,96,5674,,"Menetrendi(Települések közötti járat)",0,289 96,61,0
+5716,95,5674,,"Menetrendi(Települések közötti járat)",0,289 95,59,0
+5717,96,5674,,"Menetrendi(Települések közötti járat)",0,289 96,61,0
+5718,95,5678,,"Menetrendi(Települések közötti járat)",0,242 95,59,0
+5719,96,5678,,"Menetrendi(Települések közötti járat)",0,242 96,61,0
+5720,95,5678,,"Menetrendi(Települések közötti járat)",0,242 95,59,0
+5721,96,5678,,"Menetrendi(Települések közötti járat)",0,242 96,61,0
+5722,95,5682,,"Menetrendi(Települések közötti járat)",0,289 95,59,0
+5723,96,5682,,"Menetrendi(Települések közötti járat)",0,289 96,61,0
+5724,95,5682,,"Menetrendi(Települések közötti járat)",0,289 95,59,0
+5725,96,5682,,"Menetrendi(Települések közötti járat)",0,289 96,61,0
+5726,95,5686,,"Menetrendi(Települések közötti járat)",0,242 95,59,0
+5727,96,5686,,"Menetrendi(Települések közötti járat)",0,242 96,61,0
+5728,95,5686,,"Menetrendi(Települések közötti járat)",0,242 95,59,0
+5729,96,5686,,"Menetrendi(Települések közötti járat)",0,242 96,61,0
+5730,95,5690,,"Menetrendi(Települések közötti járat)",0,289 95,59,0
+5731,96,5690,,"Menetrendi(Települések közötti járat)",0,289 96,61,0
+5732,95,5690,,"Menetrendi(Települések közötti járat)",0,289 95,59,0
+5733,96,5690,,"Menetrendi(Települések közötti járat)",0,289 96,61,0
+5742,19,5742,,"Menetrendi(Települések közötti járat)",0,245 19,5,0
+5743,20,5742,,"Menetrendi(Települések közötti járat)",0,245 20,65,0
+5744,19,5742,,"Menetrendi(Települések közötti járat)",0,245 19,5,0
+5745,20,5742,,"Menetrendi(Települések közötti járat)",0,245 20,65,0
+5746,19,5742,,"Menetrendi(Települések közötti járat)",0,245 19,5,0
+5747,20,5742,,"Menetrendi(Települések közötti járat)",0,245 20,65,0
+5748,19,5742,,"Menetrendi(Települések közötti járat)",0,245 19,5,0
+5749,20,5742,,"Menetrendi(Települések közötti járat)",0,245 20,65,0
+5754,19,5754,,"Menetrendi(Települések közötti járat)",0,290 19,5,0
+5755,20,5754,,"Menetrendi(Települések közötti járat)",0,290 20,65,0
+5756,19,5754,,"Menetrendi(Települések közötti járat)",0,290 19,5,0
+5757,20,5754,,"Menetrendi(Települések közötti járat)",0,290 20,65,0
+5758,19,5754,,"Menetrendi(Települések közötti járat)",0,290 19,5,0
+5759,20,5754,,"Menetrendi(Települések közötti járat)",0,290 20,65,0
+5760,19,5754,,"Menetrendi(Települések közötti járat)",0,290 19,5,0
+5761,20,5754,,"Menetrendi(Települések közötti járat)",0,290 20,65,0
+5762,19,5690,,"Menetrendi(Települések közötti járat)",0,290 19,5,0
+5763,20,5690,,"Menetrendi(Települések közötti járat)",0,290 20,65,0
+5764,19,5690,,"Menetrendi(Települések közötti járat)",0,290 19,5,0
+5765,20,5690,,"Menetrendi(Települések közötti járat)",0,290 20,65,0
+5766,19,5690,,"Menetrendi(Települések közötti járat)",0,290 19,5,0
+5767,20,5690,,"Menetrendi(Települések közötti járat)",0,290 20,65,0
+5768,19,5690,,"Menetrendi(Települések közötti járat)",0,290 19,5,0
+5769,20,5690,,"Menetrendi(Települések közötti járat)",0,290 20,65,0
+5782,102,5674,,"Menetrendi(Települések közötti járat)",0,251 102,234,0
+5783,103,5674,,"Menetrendi(Települések közötti járat)",0,251 103,233,0
+5784,39,5674,,"Menetrendi(Települések közötti járat)",0,251 39,202,0
+5785,40,5674,,"Menetrendi(Települések közötti járat)",0,251 40,203,0
+5786,102,5674,,"Menetrendi(Települések közötti járat)",0,251 102,234,0
+5788,79,5742,,"Menetrendi(Települések közötti járat)",0,249 79,3,0
+5789,81,5742,,"Menetrendi(Települések közötti járat)",0,249 81,72,0
+5790,127,5646,,"Séta és nosztalgia hajó(Sétahajó)",0,245 127,38,0
+5791,127,5754,,"Séta és nosztalgia hajó(Sétahajó)",0,290 127,38,0
+5792,127,5690,,"Séta és nosztalgia hajó(Sétahajó)",0,290 127,38,0
+5802,133,5802,,"",0,247 133,69,0
+5803,133,5802,,"",0,247 133,69,0
+5804,133,5802,,"",0,247 133,69,0
+5805,133,5802,,"",0,247 133,69,0
+5806,133,5806,,"",0,247 133,69,0
+5807,133,5806,,"",0,254 133,69,0
+5808,133,5806,,"",0,247 133,69,0
+5809,133,5806,,"",0,254 133,69,0
+5810,133,5806,,"",0,247 133,69,0
+5811,133,5806,,"",0,254 133,69,0
+5812,133,5806,,"",0,247 133,69,0
+5813,133,5813,,"",0,254 133,69,0
+5814,133,5813,,"",0,247 133,69,0
+5815,133,5815,,"",0,247 133,69,0
+5816,133,5815,,"",0,247 133,69,0
+5817,133,5815,,"",0,247 133,69,0
+5818,133,5815,,"",0,247 133,69,0
+5819,133,5690,,"",0,247 133,69,0
+5820,133,5690,,"",0,247 133,69,0
+5821,133,5690,,"",0,247 133,69,0
+5822,133,5690,,"",0,247 133,69,0
+5823,118,5823,,"Séta és nosztalgia hajó(Sétahajó)",0,249 118,28,0
+5833,120,5802,,"",0,246 120,34,0
+5834,120,5802,,"",0,246 120,34,0
+5835,120,5802,,"",0,246 120,34,0
+5836,120,5802,,"",0,246 120,34,0
+5837,120,5806,,"",0,246 120,34,0
+5838,120,5806,,"",0,255 120,34,0
+5839,120,5806,,"",0,246 120,34,0
+5840,120,5806,,"",0,255 120,34,0
+5841,120,5806,,"",0,246 120,34,0
+5842,120,5806,,"",0,255 120,34,0
+5843,120,5806,,"",0,246 120,34,0
+5844,120,5813,,"",0,255 120,34,0
+5845,120,5813,,"",0,246 120,34,0
+5846,120,5815,,"",0,246 120,34,0
+5847,120,5815,,"",0,246 120,34,0
+5848,120,5815,,"",0,246 120,34,0
+5849,120,5815,,"",0,246 120,34,0
+5850,120,5690,,"",0,246 120,34,0
+5851,120,5690,,"",0,246 120,34,0
+5852,120,5690,,"",0,246 120,34,0
+5853,120,5690,,"",0,246 120,34,0
+5854,106,5854,,"",0,288 106,11,0
+5855,106,5854,,"",0,288 106,11,0
+5856,106,5854,,"",0,288 106,11,0
+5857,106,5854,,"",0,288 106,11,0
+5858,106,5646,,"",0,256 106,11,0
+5859,106,5754,,"",0,256 106,11,0
+5860,106,5754,,"",0,256 106,11,0
+5861,106,5754,,"",0,256 106,11,0
+5862,106,5754,,"",0,256 106,11,0
+5863,106,5690,,"",0,256 106,11,0
+5864,106,5690,,"",0,256 106,11,0
+5865,106,5690,,"",0,256 106,11,0
+5866,106,5690,,"",0,256 106,11,0
+5879,210,5879,,"Séta és nosztalgia hajó(Kulthajó)",0,246 210,,0
+5880,133,5674,,"",0,254 133,69,0
+5881,133,5674,,"",0,247 133,69,0
+5887,103,5674,,"Menetrendi(Települések közötti járat)",0,251 103,233,0
+5897,92,5897,,"Menetrendi(Települések közötti járat)",0,290 92,238,0
+5898,91,5897,,"Menetrendi(Települések közötti járat)",0,290 91,237,0
+5899,20,5897,,"Menetrendi(Települések közötti járat)",0,290 20,65,0
+5900,19,5897,,"Menetrendi(Települések közötti járat)",0,290 19,5,0
+5901,125,5897,,"Séta és nosztalgia hajó(Sétahajó)",0,290 125,,0
+5902,125,5897,,"Séta és nosztalgia hajó(Sétahajó)",0,290 125,,0
