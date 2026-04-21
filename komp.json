@@ -3,12 +3,16 @@
     "from": "Szántódrév",
     "to": "Tihanyrév",
     "duration": 8,
-    "slots": []
+    "slots": [
+      { "start": "07:00", "end": "21:00", "interval": 30 }
+    ]
   },
   {
     "from": "Tihanyrév",
     "to": "Szántódrév",
     "duration": 8,
-    "slots": []
+    "slots": [
+      { "start": "07:15", "end": "21:15", "interval": 30 }
+    ]
   }
 ]
