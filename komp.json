@@ -1,0 +1,14 @@
+[
+  {
+    "from": "Szántódrév",
+    "to": "Tihanyrév",
+    "duration": 8,
+    "slots": []
+  },
+  {
+    "from": "Tihanyrév",
+    "to": "Szántódrév",
+    "duration": 8,
+    "slots": []
+  }
+]
