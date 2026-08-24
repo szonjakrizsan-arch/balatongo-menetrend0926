@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-"Balatoni Hajózási ZRT.","https://bahart.hu/hu",HU,20260730,20270129,8032616
+"Balatoni Hajózási ZRT.","https://bahart.hu/hu",HU,20260822,20270221,8838357
