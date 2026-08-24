@@ -1,52 +1,4 @@
 trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible
-6574,3,6574,,"Menetrendi hajó(Települések közötti járat)",0,244 3,7,0
-6575,4,6574,,"Menetrendi hajó(Települések közötti járat)",0,244 4,10,0
-6576,3,6574,,"Menetrendi hajó(Települések közötti járat)",0,244 3,7,0
-6577,211,6574,,"Menetrendi hajó(Települések közötti járat)",0,244 211,,0
-6578,3,6578,,"Menetrendi hajó(Települések közötti járat)",0,244 3,7,0
-6579,4,6578,,"Menetrendi hajó(Települések közötti járat)",0,244 4,10,0
-6580,3,6578,,"Menetrendi hajó(Települések közötti járat)",0,244 3,7,0
-6581,211,6578,,"Menetrendi hajó(Települések közötti járat)",0,244 211,,0
-6582,3,6578,,"Menetrendi hajó(Települések közötti járat)",0,244 3,7,0
-6583,4,6578,,"Menetrendi hajó(Települések közötti járat)",0,244 4,10,0
-6584,3,6584,,"Menetrendi hajó(Települések közötti járat)",0,244 3,7,0
-6585,4,6584,,"Menetrendi hajó(Települések közötti járat)",0,244 4,10,0
-6586,3,6586,,"Menetrendi hajó(Települések közötti járat)",0,243 3,7,0
-6587,4,6586,,"Menetrendi hajó(Települések közötti járat)",0,243 4,10,0
-6588,3,6586,,"Menetrendi hajó(Települések közötti járat)",0,243 3,7,0
-6589,211,6586,,"Menetrendi hajó(Települések közötti járat)",0,243 211,,0
-6590,3,6590,,"Menetrendi hajó(Települések közötti járat)",0,243 3,7,0
-6591,4,6590,,"Menetrendi hajó(Települések közötti járat)",0,243 4,10,0
-6592,3,6590,,"Menetrendi hajó(Települések közötti járat)",0,243 3,7,0
-6593,211,6590,,"Menetrendi hajó(Települések közötti járat)",0,243 211,,0
-6594,3,6590,,"Menetrendi hajó(Települések közötti járat)",0,243 3,7,0
-6595,4,6590,,"Menetrendi hajó(Települések közötti járat)",0,243 4,10,0
-6596,3,6596,,"Menetrendi hajó(Települések közötti járat)",0,243 3,7,0
-6597,4,6596,,"Menetrendi hajó(Települések közötti járat)",0,243 4,10,0
-6598,3,6598,,"Menetrendi hajó(Települések közötti járat)",0,244 3,7,0
-6599,4,6598,,"Menetrendi hajó(Települések közötti járat)",0,244 4,10,0
-6600,3,6598,,"Menetrendi hajó(Települések közötti járat)",0,244 3,7,0
-6601,211,6598,,"Menetrendi hajó(Települések közötti járat)",0,244 211,,0
-6602,3,6602,,"Menetrendi hajó(Települések közötti járat)",0,244 3,7,0
-6603,4,6602,,"Menetrendi hajó(Települések közötti járat)",0,244 4,10,0
-6604,3,6602,,"Menetrendi hajó(Települések közötti járat)",0,244 3,7,0
-6605,211,6602,,"Menetrendi hajó(Települések közötti járat)",0,244 211,,0
-6606,3,6602,,"Menetrendi hajó(Települések közötti járat)",0,244 3,7,0
-6607,4,6602,,"Menetrendi hajó(Települések közötti járat)",0,244 4,10,0
-6608,3,6608,,"Menetrendi hajó(Települések közötti járat)",0,244 3,7,0
-6609,4,6608,,"Menetrendi hajó(Települések közötti járat)",0,244 4,10,0
-6610,3,6610,,"Menetrendi hajó(Települések közötti járat)",0,243 3,7,0
-6611,4,6610,,"Menetrendi hajó(Települések közötti járat)",0,243 4,10,0
-6612,3,6610,,"Menetrendi hajó(Települések közötti járat)",0,243 3,7,0
-6613,211,6610,,"Menetrendi hajó(Települések közötti járat)",0,243 211,,0
-6614,3,6614,,"Menetrendi hajó(Települések közötti járat)",0,243 3,7,0
-6615,4,6614,,"Menetrendi hajó(Települések közötti járat)",0,243 4,10,0
-6616,3,6614,,"Menetrendi hajó(Települések közötti járat)",0,243 3,7,0
-6617,211,6614,,"Menetrendi hajó(Települések közötti járat)",0,243 211,,0
-6618,3,6614,,"Menetrendi hajó(Települések közötti járat)",0,243 3,7,0
-6619,4,6614,,"Menetrendi hajó(Települések közötti járat)",0,243 4,10,0
-6620,3,6620,,"Menetrendi hajó(Települések közötti járat)",0,243 3,7,0
-6621,4,6620,,"Menetrendi hajó(Települések közötti járat)",0,243 4,10,0
 6622,3,6622,,"Menetrendi hajó(Települések közötti járat)",0,244 3,7,0
 6623,4,6622,,"Menetrendi hajó(Települések közötti járat)",0,244 4,10,0
 6624,3,6622,,"Menetrendi hajó(Települések közötti járat)",0,244 3,7,0
@@ -69,53 +21,19 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 6641,10,6634,,"Menetrendi hajó(Települések közötti járat)",0,242 10,62,0
 6642,9,6642,,"Menetrendi hajó(Települések közötti járat)",0,242 9,2,0
 6643,10,6642,,"Menetrendi hajó(Települések közötti járat)",0,242 10,62,0
-6644,9,6644,,"Menetrendi hajó(Települések közötti járat)",0,242 9,2,0
-6645,10,6644,,"Menetrendi hajó(Települések közötti járat)",0,242 10,62,0
-6646,98,6646,,"Menetrendi hajó(Települések közötti járat)",0,241 98,209,0
-6647,5,6646,,"Menetrendi hajó(Települések közötti járat)",0,241 5,212,0
-6648,6,6646,,"Menetrendi hajó(Települések közötti járat)",0,241 6,213,0
-6649,5,6646,,"Menetrendi hajó(Települések közötti járat)",0,241 5,212,0
-6650,104,6646,,"Menetrendi hajó(Települések közötti járat)",0,241 104,204,0
-6651,98,6651,,"Menetrendi hajó(Települések közötti járat)",0,289 98,209,0
-6652,5,6651,,"Menetrendi hajó(Települések közötti járat)",0,289 5,212,0
-6653,6,6651,,"Menetrendi hajó(Települések közötti járat)",0,289 6,213,0
-6654,5,6651,,"Menetrendi hajó(Települések közötti járat)",0,289 5,212,0
-6655,104,6651,,"Menetrendi hajó(Települések közötti járat)",0,289 104,204,0
 6656,98,6656,,"Menetrendi hajó(Települések közötti járat)",0,241 98,209,0
 6657,5,6656,,"Menetrendi hajó(Települések közötti járat)",0,241 5,212,0
 6658,6,6656,,"Menetrendi hajó(Települések közötti járat)",0,241 6,213,0
 6659,5,6656,,"Menetrendi hajó(Települések közötti járat)",0,241 5,212,0
 6660,104,6656,,"Menetrendi hajó(Települések közötti járat)",0,241 104,204,0
-6661,105,6661,,"Menetrendi hajó(Települések közötti járat)",0,241 105,205,0
-6662,6,6661,,"Menetrendi hajó(Települések közötti járat)",0,241 6,213,0
-6663,9,6661,,"Menetrendi hajó(Települések közötti járat)",0,241 9,2,0
-6664,105,6664,,"Menetrendi hajó(Települések közötti járat)",0,289 105,205,0
-6665,6,6664,,"Menetrendi hajó(Települések közötti járat)",0,289 6,213,0
-6666,9,6664,,"Menetrendi hajó(Települések közötti járat)",0,289 9,2,0
 6667,105,6656,,"Menetrendi hajó(Települések közötti járat)",0,241 105,205,0
 6668,6,6656,,"Menetrendi hajó(Települések közötti járat)",0,241 6,213,0
 6669,9,6656,,"Menetrendi hajó(Települések közötti járat)",0,241 9,2,0
-6670,9,6646,,"Menetrendi hajó(Települések közötti járat)",0,289 9,2,0
-6671,10,6646,,"Menetrendi hajó(Települések közötti járat)",0,289 10,62,0
-6672,9,6646,,"Menetrendi hajó(Települések közötti járat)",0,289 9,2,0
-6673,10,6646,,"Menetrendi hajó(Települések közötti járat)",0,289 10,62,0
-6674,9,6646,,"Menetrendi hajó(Települések közötti járat)",0,289 9,2,0
-6675,9,6651,,"Menetrendi hajó(Települések közötti járat)",0,241 9,2,0
-6676,10,6651,,"Menetrendi hajó(Települések közötti járat)",0,241 10,62,0
-6677,9,6651,,"Menetrendi hajó(Települések közötti járat)",0,241 9,2,0
-6678,10,6651,,"Menetrendi hajó(Települések közötti járat)",0,241 10,62,0
-6679,9,6651,,"Menetrendi hajó(Települések közötti járat)",0,241 9,2,0
 6680,9,6656,,"Menetrendi hajó(Települések közötti járat)",0,289 9,2,0
 6681,10,6656,,"Menetrendi hajó(Települések közötti járat)",0,289 10,62,0
 6682,9,6656,,"Menetrendi hajó(Települések közötti járat)",0,289 9,2,0
 6683,10,6656,,"Menetrendi hajó(Települések közötti járat)",0,289 10,62,0
 6684,9,6656,,"Menetrendi hajó(Települések közötti járat)",0,289 9,2,0
-6685,10,6661,,"Menetrendi hajó(Települések közötti járat)",0,289 10,62,0
-6686,9,6661,,"Menetrendi hajó(Települések közötti járat)",0,289 9,2,0
-6687,10,6661,,"Menetrendi hajó(Települések közötti járat)",0,289 10,62,0
-6688,10,6664,,"Menetrendi hajó(Települések közötti járat)",0,241 10,62,0
-6689,9,6664,,"Menetrendi hajó(Települések közötti járat)",0,241 9,2,0
-6690,10,6664,,"Menetrendi hajó(Települések közötti járat)",0,241 10,62,0
 6691,10,6656,,"Menetrendi hajó(Települések közötti járat)",0,289 10,62,0
 6692,9,6656,,"Menetrendi hajó(Települések közötti járat)",0,289 9,2,0
 6693,10,6656,,"Menetrendi hajó(Települések közötti járat)",0,289 10,62,0
@@ -139,36 +57,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 6711,20,6634,,"Menetrendi hajó(Települések közötti járat)",0,290 20,65,0
 6712,19,6634,,"Menetrendi hajó(Települések közötti járat)",0,290 19,5,0
 6713,20,6634,,"Menetrendi hajó(Települések közötti járat)",0,290 20,65,0
-6729,27,6729,,"Menetrendi hajó(Települések közötti járat)",0,252 27,218,0
-6730,103,6729,,"Menetrendi hajó(Települések közötti járat)",0,252 103,233,0
-6731,39,6729,,"Menetrendi hajó(Települések közötti járat)",0,252 39,202,0
-6732,105,6729,,"Menetrendi hajó(Települések közötti járat)",0,252 105,205,0
-6733,104,6729,,"Menetrendi hajó(Települések közötti járat)",0,252 104,204,0
-6734,40,6729,,"Menetrendi hajó(Települések közötti járat)",0,252 40,203,0
-6735,102,6729,,"Menetrendi hajó(Települések közötti járat)",0,252 102,234,0
-6736,29,6736,,"Menetrendi hajó(Települések közötti járat)",0,252 29,220,0
-6737,27,6737,,"Menetrendi hajó(Települések közötti járat)",0,251 27,218,0
-6738,103,6737,,"Menetrendi hajó(Települések közötti járat)",0,251 103,233,0
-6739,39,6737,,"Menetrendi hajó(Települések közötti járat)",0,251 39,202,0
-6740,105,6737,,"Menetrendi hajó(Települések közötti járat)",0,251 105,205,0
-6741,104,6737,,"Menetrendi hajó(Települések közötti járat)",0,251 104,204,0
-6742,40,6737,,"Menetrendi hajó(Települések közötti járat)",0,251 40,203,0
-6743,102,6737,,"Menetrendi hajó(Települések közötti járat)",0,251 102,234,0
-6744,27,6744,,"Menetrendi hajó(Települések közötti járat)",0,250 27,218,0
-6745,103,6744,,"Menetrendi hajó(Települések közötti járat)",0,250 103,233,0
-6746,39,6744,,"Menetrendi hajó(Települések közötti járat)",0,250 39,202,0
-6747,105,6744,,"Menetrendi hajó(Települések közötti járat)",0,250 105,205,0
-6748,104,6744,,"Menetrendi hajó(Települések közötti járat)",0,250 104,204,0
-6749,40,6744,,"Menetrendi hajó(Települések közötti járat)",0,250 40,203,0
-6750,102,6744,,"Menetrendi hajó(Települések közötti járat)",0,250 102,234,0
-6751,29,6751,,"Menetrendi hajó(Települések közötti járat)",0,250 29,220,0
-6752,27,6752,,"Menetrendi hajó(Települések közötti járat)",0,252 27,218,0
-6753,103,6752,,"Menetrendi hajó(Települések közötti járat)",0,252 103,233,0
-6754,39,6752,,"Menetrendi hajó(Települések közötti járat)",0,252 39,202,0
-6755,105,6752,,"Menetrendi hajó(Települések közötti járat)",0,252 105,205,0
-6756,104,6752,,"Menetrendi hajó(Települések közötti járat)",0,252 104,204,0
-6757,40,6752,,"Menetrendi hajó(Települések közötti járat)",0,252 40,203,0
-6758,102,6752,,"Menetrendi hajó(Települések közötti járat)",0,252 102,234,0
 6759,27,6759,,"Menetrendi hajó(Települések közötti járat)",0,253 27,218,0
 6760,103,6759,,"Menetrendi hajó(Települések közötti járat)",0,253 103,233,0
 6761,39,6759,,"Menetrendi hajó(Települések közötti járat)",0,253 39,202,0
@@ -177,63 +65,14 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 6764,40,6759,,"Menetrendi hajó(Települések közötti járat)",0,253 40,203,0
 6765,102,6759,,"Menetrendi hajó(Települések közötti járat)",0,253 102,234,0
 6766,29,6766,,"Menetrendi hajó(Települések közötti járat)",0,253 29,220,0
-6772,31,6772,,"Menetrendi hajó(Települések közötti járat)",0,250 31,,0
-6773,33,6772,,"Menetrendi hajó(Települések közötti járat)",0,250 33,,0
-6774,31,6772,,"Menetrendi hajó(Települések közötti járat)",0,250 31,,0
-6775,33,6729,,"Menetrendi hajó(Települések közötti járat)",0,250 33,,0
-6776,33,6737,,"Menetrendi hajó(Települések közötti járat)",0,251 33,,0
-6777,31,6777,,"Menetrendi hajó(Települések közötti járat)",0,253 31,,0
-6778,33,6777,,"Menetrendi hajó(Települések közötti járat)",0,253 33,,0
-6779,31,6777,,"Menetrendi hajó(Települések közötti járat)",0,253 31,,0
-6780,33,6744,,"Menetrendi hajó(Települések közötti járat)",0,253 33,,0
-6781,33,6752,,"Menetrendi hajó(Települések közötti járat)",0,252 33,,0
 6782,31,6759,,"Menetrendi hajó(Települések közötti járat)",0,251 31,,0
 6783,33,6759,,"Menetrendi hajó(Települések közötti járat)",0,251 33,,0
 6784,31,6759,,"Menetrendi hajó(Települések közötti járat)",0,251 31,,0
 6785,33,6759,,"Menetrendi hajó(Települések közötti járat)",0,251 33,,0
-6794,35,6794,,"Menetrendi hajó(Települések közötti járat)",0,251 35,93,0
-6795,38,6795,,"Menetrendi hajó(Települések közötti járat)",0,251 38,94,0
-6800,91,6800,,"Menetrendi hajó(Települések közötti járat)",0,251 91,237,0
-6801,92,6800,,"Menetrendi hajó(Települések közötti járat)",0,251 92,238,0
-6802,35,6802,,"Menetrendi hajó(Települések közötti járat)",0,252 35,93,0
-6803,38,6803,,"Menetrendi hajó(Települések közötti járat)",0,252 38,94,0
-6808,91,6808,,"Menetrendi hajó(Települések közötti járat)",0,252 91,237,0
-6809,92,6808,,"Menetrendi hajó(Települések közötti járat)",0,252 92,238,0
-6810,35,6810,,"Menetrendi hajó(Települések közötti járat)",0,250 35,93,0
-6811,38,6811,,"Menetrendi hajó(Települések közötti járat)",0,250 38,94,0
 6814,35,6622,,"Menetrendi hajó(Települések közötti járat)",0,250 35,93,0
 6815,38,6626,,"Menetrendi hajó(Települések közötti járat)",0,250 38,94,0
 6816,91,6816,,"Menetrendi hajó(Települések közötti járat)",0,250 91,237,0
 6817,92,6816,,"Menetrendi hajó(Települések közötti járat)",0,250 92,238,0
-6842,43,6842,,"Menetrendi hajó(Települések közötti járat)",0,243 43,6,0
-6843,188,6843,,"Menetrendi hajó(Települések közötti járat)",0,243 188,,0
-6846,188,6846,,"Menetrendi hajó(Települések közötti járat)",0,251 188,,0
-6847,187,6846,,"Menetrendi hajó(Települések közötti járat)",0,251 187,,0
-6848,44,6846,,"Menetrendi hajó(Települések közötti járat)",0,251 44,68,0
-6850,43,6850,,"Menetrendi hajó(Települések közötti járat)",0,244 43,6,0
-6851,188,6851,,"Menetrendi hajó(Települések közötti járat)",0,244 188,,0
-6852,187,6852,,"Menetrendi hajó(Települések közötti járat)",0,244 187,,0
-6853,44,6852,,"Menetrendi hajó(Települések közötti járat)",0,244 44,68,0
-6854,188,6854,,"Menetrendi hajó(Települések közötti járat)",0,252 188,,0
-6855,187,6854,,"Menetrendi hajó(Települések közötti járat)",0,252 187,,0
-6856,44,6854,,"Menetrendi hajó(Települések közötti járat)",0,252 44,68,0
-6857,43,6857,,"Menetrendi hajó(Települések közötti járat)",0,252 43,6,0
-6858,43,6858,,"Menetrendi hajó(Települések közötti járat)",0,243 43,6,0
-6859,188,6859,,"Menetrendi hajó(Települések közötti járat)",0,243 188,,0
-6860,187,6860,,"Menetrendi hajó(Települések közötti járat)",0,243 187,,0
-6861,44,6860,,"Menetrendi hajó(Települések közötti járat)",0,243 44,68,0
-6862,188,6862,,"Menetrendi hajó(Települések közötti járat)",0,252 188,,0
-6863,187,6862,,"Menetrendi hajó(Települések közötti járat)",0,252 187,,0
-6864,44,6862,,"Menetrendi hajó(Települések közötti járat)",0,252 44,68,0
-6865,43,6752,,"Menetrendi hajó(Települések közötti járat)",0,250 43,6,0
-6866,43,6866,,"Menetrendi hajó(Települések közötti járat)",0,244 43,6,0
-6867,188,6867,,"Menetrendi hajó(Települések közötti járat)",0,244 188,,0
-6868,187,6868,,"Menetrendi hajó(Települések közötti járat)",0,244 187,,0
-6869,44,6868,,"Menetrendi hajó(Települések közötti járat)",0,244 44,68,0
-6870,188,6870,,"Menetrendi hajó(Települések közötti járat)",0,250 188,,0
-6871,187,6870,,"Menetrendi hajó(Települések közötti járat)",0,250 187,,0
-6872,44,6870,,"Menetrendi hajó(Települések közötti járat)",0,250 44,68,0
-6873,43,6873,,"Menetrendi hajó(Települések közötti járat)",0,250 43,6,0
 6874,43,6622,,"Menetrendi hajó(Települések közötti járat)",0,243 43,6,0
 6875,188,6622,,"Menetrendi hajó(Települések közötti járat)",0,243 188,,0
 6876,187,6626,,"Menetrendi hajó(Települések közötti járat)",0,243 187,,0
@@ -251,41 +90,15 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 6888,105,6634,,"Menetrendi hajó(Települések közötti járat)",0,247 105,205,0
 6889,104,6634,,"Menetrendi hajó(Települések közötti járat)",0,247 104,204,0
 6890,135,6890,,"Séta hajó(Sétahajó)",0,254 135,50,0
-6892,136,6892,,"Séta hajó(Sétahajó - Naplemente)",0,254 136,51,0
 6893,136,6893,,"Séta hajó(Sétahajó - Naplemente)",0,254 136,51,0
-6897,127,6897,,"Séta hajó(Sétahajó)",0,251 127,38,0
-6899,127,6846,,"Séta hajó(Sétahajó)",0,243 127,38,0
-6900,127,6900,,"Séta hajó(Sétahajó)",0,252 127,38,0
-6901,127,6854,,"Séta hajó(Sétahajó)",0,244 127,38,0
-6902,127,6862,,"Séta hajó(Sétahajó)",0,243 127,38,0
-6903,127,6903,,"Séta hajó(Sétahajó)",0,250 127,38,0
-6904,127,6870,,"Séta hajó(Sétahajó)",0,244 127,38,0
 6905,127,6905,,"Séta hajó(Sétahajó)",0,250 127,38,0
-6907,128,6907,,"Séta hajó(Sétahajó - Naplemente)",0,245 128,9,0
 6908,128,6908,,"Séta hajó(Sétahajó - Naplemente)",0,245 128,9,0
-6910,137,6772,,"Séta hajó(Sétahajó)",0,250 137,53,0
-6911,137,6777,,"Séta hajó(Sétahajó)",0,253 137,53,0
 6912,137,6759,,"Séta hajó(Sétahajó)",0,251 137,53,0
-6914,137,6772,,"Séta hajó(Sétahajó)",0,250 137,53,0
-6915,137,6777,,"Séta hajó(Sétahajó)",0,253 137,53,0
 6916,137,6759,,"Séta hajó(Sétahajó)",0,251 137,53,0
-6920,138,6920,,"Séta hajó(Sétahajó - Naplemente)",0,250 138,54,0
-6921,138,6737,,"Séta hajó(Sétahajó - Naplemente)",0,251 138,54,0
-6922,138,6922,,"Séta hajó(Sétahajó - Naplemente)",0,253 138,54,0
-6923,138,6923,,"Séta hajó(Sétahajó - Naplemente)",0,253 138,54,0
-6924,138,6752,,"Séta hajó(Sétahajó - Naplemente)",0,252 138,54,0
 6925,138,6925,,"Séta hajó(Sétahajó - Naplemente)",0,251 138,54,0
 6926,138,6926,,"Séta hajó(Sétahajó - Naplemente)",0,251 138,54,0
-6930,115,6930,,"Séta hajó(Sétahajó - Naplemente)",0,244 115,24,0
-6931,115,6931,,"Séta hajó(Sétahajó - Naplemente)",0,243 115,24,0
-6932,115,6932,,"Séta hajó(Sétahajó - Naplemente)",0,244 115,24,0
-6933,115,6933,,"Séta hajó(Sétahajó - Naplemente)",0,243 115,24,0
 6934,115,6934,,"Séta hajó(Sétahajó - Naplemente)",0,244 115,24,0
-6936,115,6936,,"Séta hajó(Sétahajó - Naplemente)",0,256 115,24,0
 6937,115,6937,,"Séta hajó(Sétahajó - Naplemente)",0,256 115,24,0
-6940,109,6940,,"Séta hajó(Sétahajó - Naplemente)",0,252 109,15,0
-6941,109,6941,,"Séta hajó(Sétahajó - Naplemente)",0,250 109,15,0
-6942,109,6942,,"Séta hajó(Sétahajó - Naplemente)",0,250 109,15,0
 6943,109,6943,,"Séta hajó(Sétahajó - Naplemente)",0,253 109,15,0
 6944,133,6634,,"",0,254 133,69,0
 6945,133,6634,,"",0,254 133,69,0
@@ -300,7 +113,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 6955,133,6634,,"",0,247 133,69,0
 6956,133,6634,,"",0,247 133,69,0
 6957,133,6634,,"",0,247 133,69,0
-6959,134,6959,,"Séta hajó(Sétahajó - Naplemente)",0,247 134,69,0
 6960,134,6960,,"Séta hajó(Sétahajó - Naplemente)",0,247 134,69,0
 6961,112,6634,,"Séta hajó(Sétahajó)",0,256 112,17,0
 6962,112,6634,,"Séta hajó(Sétahajó)",0,256 112,17,0
@@ -308,30 +120,15 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 6964,112,6634,,"Séta hajó(Sétahajó)",0,256 112,17,0
 6965,112,6634,,"Séta hajó(Sétahajó)",0,256 112,17,0
 6966,112,6634,,"Séta hajó(Sétahajó)",0,256 112,17,0
-6968,113,6968,,"Séta hajó(Sétahajó - Naplemente)",0,256 113,18,0
 6969,113,6969,,"Séta hajó(Sétahajó - Naplemente)",0,256 113,18,0
-6977,113,6977,,"Séta hajó(Sétahajó - Naplemente)",0,243 113,18,0
-6979,113,6941,,"Séta hajó(Sétahajó - Naplemente)",0,244 113,18,0
-6980,113,6980,,"Séta hajó(Sétahajó - Naplemente)",0,244 113,18,0
-6981,113,6854,,"Séta hajó(Sétahajó - Naplemente)",0,252 113,18,0
-6982,113,6982,,"Séta hajó(Sétahajó - Naplemente)",0,243 113,18,0
-6983,113,6862,,"Séta hajó(Sétahajó - Naplemente)",0,252 113,18,0
-6984,113,6984,,"Séta hajó(Sétahajó - Naplemente)",0,244 113,18,0
-6985,113,6870,,"Séta hajó(Sétahajó - Naplemente)",0,250 113,18,0
 6986,113,6986,,"Séta hajó(Sétahajó - Naplemente)",0,243 113,18,0
 6987,118,6987,,"Séta hajó(Sétahajó)",0,249 118,28,0
 6988,118,6988,,"Séta hajó(Sétahajó)",0,249 118,28,0
 6989,189,6989,,"Séta hajó(Romantikus Badacsony)",0,249 189,,0
 6991,118,6991,,"Séta hajó(Sétahajó)",0,249 118,28,0
-6993,119,6993,,"Séta hajó(Sétahajó - Naplemente)",0,249 119,29,0
 6994,119,6994,,"Séta hajó(Sétahajó - Naplemente)",0,249 119,29,0
-6996,111,6996,,"Séta hajó(Sétahajó - Naplemente)",0,256 111,16,0
 6997,111,6997,,"Séta hajó(Sétahajó - Naplemente)",0,256 111,16,0
-7000,111,7000,,"Séta hajó(Sétahajó - Naplemente)",0,252 111,16,0
-7001,111,7001,,"Séta hajó(Sétahajó - Naplemente)",0,250 111,16,0
-7002,111,7002,,"Séta hajó(Sétahajó - Naplemente)",0,250 111,16,0
 7003,111,7003,,"Séta hajó(Sétahajó - Naplemente)",0,253 111,16,0
-7005,117,6996,,"Séta hajó(Sétahajó - Naplemente)",0,245 117,27,0
 7006,117,6997,,"Séta hajó(Sétahajó - Naplemente)",0,245 117,27,0
 7007,120,6634,,"",0,255 120,34,0
 7008,120,6634,,"",0,255 120,34,0
@@ -349,12 +146,7 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 7021,120,6634,,"",0,246 120,34,0
 7022,120,6634,,"",0,246 120,34,0
 7023,120,6634,,"",0,246 120,34,0
-7025,121,6959,,"Séta hajó(Sétahajó - Naplemente)",0,246 121,34,0
 7026,121,6960,,"Séta hajó(Sétahajó - Naplemente)",0,246 121,34,0
-7030,130,6584,,"Séta hajó(Sétahajó - Naplemente)",0,244 130,40,0
-7031,130,6596,,"Séta hajó(Sétahajó - Naplemente)",0,243 130,40,0
-7032,130,6608,,"Séta hajó(Sétahajó - Naplemente)",0,244 130,40,0
-7033,130,6620,,"Séta hajó(Sétahajó - Naplemente)",0,243 130,40,0
 7034,130,6632,,"Séta hajó(Sétahajó - Naplemente)",0,244 130,40,0
 7035,106,6634,,"",0,288 106,11,0
 7036,106,6634,,"",0,288 106,11,0
@@ -363,80 +155,16 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 7039,106,6951,,"",0,288 106,11,0
 7040,106,7040,,"",0,288 106,11,0
 7041,106,6634,,"",0,288 106,11,0
-7043,107,6959,,"Séta hajó(Sétahajó - Naplemente)",0,288 107,12,0
 7044,107,6960,,"Séta hajó(Sétahajó - Naplemente)",0,288 107,12,0
-7046,125,6800,,"Séta hajó(Sétahajó)",0,251 125,,0
-7047,125,6808,,"Séta hajó(Sétahajó)",0,252 125,,0
 7048,125,6816,,"Séta hajó(Sétahajó)",0,250 125,,0
-7049,157,7049,,"Bulihajó(Bulihajó)",0,290 157,36,0
-7050,157,6664,,"Bulihajó(Bulihajó)",0,290 157,36,0
 7051,157,7051,,"Bulihajó(Bulihajó)",0,290 157,36,0
-7052,152,7049,,"Bulihajó(Bulihajó)",0,290 152,71,0
-7053,152,6664,,"Bulihajó(Bulihajó)",0,290 152,71,0
 7054,152,7051,,"Bulihajó(Bulihajó)",0,290 152,71,0
-7058,150,7058,,"Bulihajó(Bulihajó)",0,244 150,70,0
-7059,150,7059,,"Bulihajó(Bulihajó)",0,243 150,70,0
-7060,150,7060,,"Bulihajó(Bulihajó)",0,244 150,70,0
-7064,159,7058,,"Bulihajó(Bulihajó)",0,244 159,8,0
-7065,159,7059,,"Bulihajó(Bulihajó)",0,243 159,8,0
-7066,159,7060,,"Bulihajó(Bulihajó)",0,244 159,8,0
-7071,150,7071,,"Bulihajó(Bulihajó)",0,243 150,70,0
-7072,150,7072,,"Bulihajó(Bulihajó)",0,244 150,70,0
-7073,150,7073,,"Bulihajó(Bulihajó)",0,243 150,70,0
-7078,159,7071,,"Bulihajó(Bulihajó)",0,243 159,8,0
-7079,159,7072,,"Bulihajó(Bulihajó)",0,244 159,8,0
-7080,159,7073,,"Bulihajó(Bulihajó)",0,243 159,8,0
-7081,150,7081,,"Bulihajó(Bulihajó)",0,244 150,70,0
-7082,150,7082,,"Bulihajó(Bulihajó)",0,243 150,70,0
-7083,150,7083,,"Bulihajó(Bulihajó)",0,244 150,70,0
-7084,150,7084,,"Bulihajó(Bulihajó)",0,243 150,70,0
-7085,159,7081,,"Bulihajó(Bulihajó)",0,244 159,8,0
-7086,159,7082,,"Bulihajó(Bulihajó)",0,243 159,8,0
-7087,159,7083,,"Bulihajó(Bulihajó)",0,244 159,8,0
-7088,159,7084,,"Bulihajó(Bulihajó)",0,243 159,8,0
-7089,160,6664,,"Bulihajó(Bulihajó)",0,289 160,69,0
-7090,149,6930,,"Bulihajó(Bulihajó)",0,243 149,19,0
-7091,149,6931,,"Bulihajó(Bulihajó)",0,244 149,19,0
-7092,149,6932,,"Bulihajó(Bulihajó)",0,243 149,19,0
-7093,149,7093,,"Bulihajó(Bulihajó)",0,244 149,19,0
-7097,149,7097,,"Bulihajó(Bulihajó)",0,243 149,19,0
-7098,149,7098,,"Bulihajó(Bulihajó)",0,244 149,19,0
-7099,149,7099,,"Bulihajó(Bulihajó)",0,243 149,19,0
-7103,149,7103,,"Bulihajó(Bulihajó)",0,243 149,19,0
-7104,149,7104,,"Bulihajó(Bulihajó)",0,244 149,19,0
-7105,149,7105,,"Bulihajó(Bulihajó)",0,243 149,19,0
-7106,149,7106,,"Bulihajó(Bulihajó)",0,244 149,19,0
-7107,149,6873,,"Bulihajó(Bulihajó)",0,243 149,19,0
-7112,154,7071,,"Bulihajó(Bulihajó)",0,244 154,235,0
-7113,154,7072,,"Bulihajó(Bulihajó)",0,243 154,235,0
-7114,154,7073,,"Bulihajó(Bulihajó)",0,244 154,235,0
-7119,155,7071,,"Bulihajó(Bulihajó)",0,244 155,35,0
-7120,155,7072,,"Bulihajó(Bulihajó)",0,243 155,35,0
-7121,155,7073,,"Bulihajó(Bulihajó)",0,244 155,35,0
-7122,148,7049,,"Bulihajó(Bulihajó)",0,289 148,13,0
 7123,148,7051,,"Bulihajó(Bulihajó)",0,289 148,13,0
-7126,141,7126,,"",0,244 141,25,0
-7127,141,7127,,"",0,243 141,25,0
-7128,141,7128,,"",0,243 141,25,0
-7129,146,7129,,"",0,288 146,69,0
-7132,140,7097,,"",0,243 140,20,0
-7133,140,7099,,"",0,243 140,20,0
-7134,140,7134,,"",0,244 140,20,0
-7136,142,7136,,"",0,245 142,27,0
 7137,144,7137,,"",0,246 144,33,0
-7138,144,7138,,"",0,246 144,33,0
 7139,190,7139,,"",0,288 190,,0
-7141,147,7141,,"",0,250 147,52,0
-7142,147,7142,,"",0,253 147,52,0
 7143,147,7143,,"",0,251 147,52,0
 7144,143,7144,,"",0,249 143,30,0
-7145,143,7138,,"",0,249 143,30,0
-7274,218,7049,,"",0,241 218,,0
 7275,218,7051,,"",0,241 218,,0
-7276,216,6664,,"",0,241 216,,0
-7278,214,7278,,"Gyerekhajó(Kalap Jakab koncert)",0,244 214,,0
-7280,226,7280,,"Gyerekhajó(Kalap Jakab koncert)",0,244 226,,0
-7282,227,7282,,"Gyerekhajó(Kalap Jakab koncert)",0,245 227,,0
 7294,228,7294,,"",0,256 228,,0
 7300,3,7300,,"Menetrendi hajó(Települések közötti járat)",0,244 3,7,0
 7301,4,7300,,"Menetrendi hajó(Települések közötti járat)",0,244 4,10,0
@@ -714,7 +442,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 7574,120,7300,,"",0,255 120,34,0
 7575,120,7300,,"",0,255 120,34,0
 7576,120,7576,,"",0,246 120,34,0
-7577,210,7577,,"Séta hajó(Kulthajó)",0,246 210,,0
 7578,120,7300,,"",0,246 120,34,0
 7579,120,7300,,"",0,246 120,34,0
 7580,120,7300,,"",0,246 120,34,0
@@ -741,10 +468,4 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 7601,120,7562,,"",0,246 120,34,0
 7602,120,7562,,"",0,246 120,34,0
 7603,120,7562,,"",0,246 120,34,0
-7605,229,6857,,"Menetrendi hajó(Települések közötti járat)",0,244 229,,0
-7606,229,6873,,"Menetrendi hajó(Települések közötti járat)",0,244 229,,0
-7608,229,6752,,"Menetrendi hajó(Települések közötti járat)",0,243 229,,0
-7610,230,6854,,"Menetrendi hajó(Települések közötti járat)",0,244 230,,0
-7611,230,6870,,"Menetrendi hajó(Települések közötti járat)",0,244 230,,0
-7613,230,6862,,"Menetrendi hajó(Települések közötti járat)",0,243 230,,0
-7614,38,6846,,"Menetrendi hajó(Települések közötti járat)",0,251 38,94,0
+7633,210,7633,,"Séta hajó(Kulthajó)",0,246 210,,0
