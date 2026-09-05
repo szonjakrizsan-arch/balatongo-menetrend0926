@@ -260,6 +260,7 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 7558,106,7551,,"",0,247 106,11,0
 7559,106,7551,,"",0,247 106,11,0
 7560,106,7551,,"",0,247 106,11,0
+7561,106,7411,,"",0,247 106,11,0
 7562,133,7562,,"",0,288 133,69,0
 7563,133,7562,,"",0,288 133,69,0
 7564,133,7562,,"",0,288 133,69,0
@@ -281,10 +282,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 7581,120,7300,,"",0,246 120,34,0
 7582,120,7300,,"",0,246 120,34,0
 7583,121,7152,,"Séta hajó(Sétahajó - Naplemente)",0,255 121,34,0
-7584,120,7542,,"",0,255 120,34,0
-7585,120,7542,,"",0,255 120,34,0
-7586,120,7542,,"",0,255 120,34,0
-7587,120,7542,,"",0,255 120,34,0
 7588,120,7411,,"",0,255 120,34,0
 7589,120,7411,,"",0,255 120,34,0
 7590,120,7411,,"",0,255 120,34,0
@@ -301,7 +298,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 7601,120,7562,,"",0,246 120,34,0
 7602,120,7562,,"",0,246 120,34,0
 7603,120,7562,,"",0,246 120,34,0
-7633,210,7633,,"Séta hajó(Kulthajó)",0,246 210,,0
 7644,19,7525,,"Menetrendi hajó(Települések közötti járat)",0,290 19,5,0
 7645,19,7525,,"Menetrendi hajó(Települések közötti járat)",0,290 19,5,0
 7646,19,7525,,"Menetrendi hajó(Települések közötti járat)",0,290 19,5,0
@@ -313,3 +309,8 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 7652,20,7525,,"Menetrendi hajó(Települések közötti járat)",0,245 20,65,0
 7653,20,7525,,"Menetrendi hajó(Települések közötti járat)",0,290 20,65,0
 7654,167,7654,,"",0,244 167,,0
+7655,107,7655,,"Séta hajó(Sétahajó - Naplemente)",0,247 107,12,0
+7656,134,7655,,"Séta hajó(Sétahajó - Naplemente)",0,288 134,69,0
+7657,121,7655,,"Séta hajó(Sétahajó - Naplemente)",0,246 121,34,0
+7658,134,7658,,"Séta hajó(Sétahajó - Naplemente)",0,254 134,69,0
+7659,121,7658,,"Séta hajó(Sétahajó - Naplemente)",0,255 121,34,0
