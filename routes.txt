@@ -12,6 +12,8 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 133,BAHART,"","1 órás sétahajó",,4,,,
 134,BAHART,"","Naplemente sétahajó",,4,,,
 167,BAHART,"","Jóga a fedélzeten!",,4,,,
+181,BAHART,"","Halloween gyerekhajó",,4,,,
+182,BAHART,"","Halloween gyerekhajó",,4,,,
 19,BAHART,"","Fonyód-Badacsony",,4,,,
 20,BAHART,"","Badacsony-Fonyód",,4,,,
 210,BAHART,"","Kulthajó",,4,,,
