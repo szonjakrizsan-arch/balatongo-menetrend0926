@@ -2,7 +2,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 102,BAHART,"","Balatonföldvár-Tihany",,4,,,
 103,BAHART,"","Tihany--Balatonföldvár",,4,,,
 106,BAHART,"","1 órás sétahajó",,4,,,
-107,BAHART,"","Naplemente sétahajó",,4,,,
 117,BAHART,"","Naplemente sétahajó",,4,,,
 118,BAHART,"","1 órás sétahajó",,4,,,
 120,BAHART,"","1 órás sétahajó",,4,,,
