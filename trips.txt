@@ -7,14 +7,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 7416,211,7411,,"Menetrendi hajó(Települések közötti járat)",0,290 211,,0
 7417,3,7411,,"Menetrendi hajó(Települések közötti járat)",0,290 3,7,0
 7418,4,7411,,"Menetrendi hajó(Települések közötti járat)",0,290 4,10,0
-7423,99,7423,,"Menetrendi hajó(Települések közötti járat)",0,252 99,232,0
-7424,95,7423,,"Menetrendi hajó(Települések közötti járat)",0,252 95,59,0
-7425,96,7423,,"Menetrendi hajó(Települések közötti járat)",0,252 96,61,0
-7426,97,7423,,"Menetrendi hajó(Települések közötti járat)",0,252 97,236,0
-7427,99,7427,,"Menetrendi hajó(Települések közötti járat)",0,243 99,232,0
-7428,95,7427,,"Menetrendi hajó(Települések közötti járat)",0,243 95,59,0
-7429,96,7427,,"Menetrendi hajó(Települések közötti járat)",0,243 96,61,0
-7430,97,7427,,"Menetrendi hajó(Települések közötti járat)",0,243 97,236,0
 7431,99,7431,,"Menetrendi hajó(Települések közötti járat)",0,289 99,232,0
 7432,95,7431,,"Menetrendi hajó(Települések közötti járat)",0,289 95,59,0
 7433,96,7431,,"Menetrendi hajó(Települések közötti járat)",0,289 96,61,0
@@ -35,10 +27,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 7448,95,7447,,"Menetrendi hajó(Települések közötti járat)",0,289 95,59,0
 7449,96,7447,,"Menetrendi hajó(Települések közötti járat)",0,289 96,61,0
 7450,97,7447,,"Menetrendi hajó(Települések közötti járat)",0,289 97,236,0
-7455,95,7455,,"Menetrendi hajó(Települések közötti járat)",0,289 95,59,0
-7456,96,7455,,"Menetrendi hajó(Települések közötti járat)",0,289 96,61,0
-7457,95,7455,,"Menetrendi hajó(Települések közötti járat)",0,289 95,59,0
-7458,96,7455,,"Menetrendi hajó(Települések közötti járat)",0,289 96,61,0
 7459,95,7459,,"Menetrendi hajó(Települések közötti járat)",0,253 95,59,0
 7460,96,7459,,"Menetrendi hajó(Települések közötti járat)",0,253 96,61,0
 7461,95,7459,,"Menetrendi hajó(Települések közötti járat)",0,253 95,59,0
@@ -156,8 +144,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 7601,120,7562,,"",0,246 120,34,0
 7602,120,7562,,"",0,246 120,34,0
 7603,120,7562,,"",0,246 120,34,0
-7654,167,7654,,"",0,244 167,,0
 7658,134,7658,,"Séta hajó(Sétahajó - Naplemente)",0,254 134,69,0
-7659,121,7658,,"Séta hajó(Sétahajó - Naplemente)",0,255 121,34,0
 7661,181,7661,,"Gyerekhajó(Halloween gyerek hajó)",0,242 181,,0
 7662,182,7661,,"Gyerekhajó(Halloween gyerek hajó)",0,242 182,,0
