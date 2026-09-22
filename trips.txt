@@ -147,3 +147,9 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 7658,134,7658,,"Séta hajó(Sétahajó - Naplemente)",0,254 134,69,0
 7661,181,7661,,"Gyerekhajó(Halloween gyerek hajó)",0,242 181,,0
 7662,182,7661,,"Gyerekhajó(Halloween gyerek hajó)",0,242 182,,0
+7663,19,7663,,"Menetrendi hajó(Települések közötti járat)",0,249 19,5,0
+7664,91,7663,,"Menetrendi hajó(Települések közötti járat)",0,249 91,237,0
+7665,92,7663,,"Menetrendi hajó(Települések közötti járat)",0,249 92,238,0
+7666,20,7663,,"Menetrendi hajó(Települések közötti járat)",0,249 20,65,0
+7667,125,7663,,"Séta hajó(Sétahajó)",0,249 125,,0
+7668,125,7663,,"Séta hajó(Sétahajó)",0,249 125,,0
