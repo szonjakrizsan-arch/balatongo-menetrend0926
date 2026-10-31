@@ -20,8 +20,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 7601,120,7562,,"",0,246 120,34,0
 7602,120,7562,,"",0,246 120,34,0
 7603,120,7562,,"",0,246 120,34,0
-7661,181,7661,,"Gyerekhajó(Halloween gyerek hajó)",0,242 181,,0
-7662,182,7661,,"Gyerekhajó(Halloween gyerek hajó)",0,242 182,,0
 7669,183,7669,,"Séta hajó(Garda séta)",0,289 183,,0
 7670,179,7670,,"Gyerekhajó(Mikulás Hajó)",0,242 179,,0
 7671,180,7670,,"Gyerekhajó(Mikulás Hajó)",0,242 180,,0
