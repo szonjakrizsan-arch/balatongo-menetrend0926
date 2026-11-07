@@ -1,3 +1,0 @@
-service_id,date,exception_type
-20261031,20261031,1
-20261101,20261101,1
