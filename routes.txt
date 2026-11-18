@@ -3,4 +3,3 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 128,BAHART,"","Naplemente sétahajó",,4,,,
 179,BAHART,"","Mikuláshajó",,4,,,
 180,BAHART,"","Mikuláshajó",,4,,,
-183,BAHART,"","Garda sétahajózás Tihany",,4,,,

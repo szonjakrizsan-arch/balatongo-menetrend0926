@@ -1,6 +1,4 @@
 trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type,drop_off_type,shape_dist_traveled,timepoint
-7669,10:15:00,10:15:00,64_3,1,"",,,,0
-7669,11:30:00,11:30:00,64_3,2,"",,,,0
 7670,15:00:00,15:00:00,50_2,1,"",,,,0
 7670,16:15:00,16:15:00,50_2,2,"",,,,0
 7671,11:00:00,11:00:00,65_6,1,"",,,,0
